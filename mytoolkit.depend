@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1520509557 source:d:\google drive\drive\christopher\cb\librairies\mytoolkit\management_functions.c
+	"mytoolkit.h"
+
+1520972006 d:\google drive\drive\christopher\cb\librairies\mytoolkit\mytoolkit.h
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<conioplus.h>
+
+1520549443 source:d:\google drive\drive\christopher\cb\librairies\mytoolkit\interface_functions.c
+	"mytoolkit.h"
+
+1520466006 source:d:\google drive\drive\christopher\cb\librairies\mytoolkit\time_functions.c
+	"mytoolkit.h"
+
+1520949360 source:d:\google drive\drive\christopher\cb\librairies\mytoolkit\modified_functions.c
+	"mytoolkit.h"
+
+1520545843 source:c:\program files\google drive\drive\christopher\cb\librairies\mytoolkit\interface_functions.c
+	"mytoolkit.h"
+
+1520945361 c:\program files\google drive\drive\christopher\cb\librairies\mytoolkit\mytoolkit.h
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<conioplus.h>
+
+1520509557 source:c:\program files\google drive\drive\christopher\cb\librairies\mytoolkit\management_functions.c
+	"mytoolkit.h"
+
+1520578414 source:c:\program files\google drive\drive\christopher\cb\librairies\mytoolkit\modified_functions.c
+	"mytoolkit.h"
+
+1520462406 source:c:\program files\google drive\drive\christopher\cb\librairies\mytoolkit\time_functions.c
+	"mytoolkit.h"
+
+1520510242 source:c:\program files\google drive\drive\christopher\cb\librairies\mytoolkit\files_functions.c
+	"mytoolkit.h"
+
+1520513190 source:d:\google drive\drive\christopher\cb\librairies\mytoolkit\files_functions.c
+	"mytoolkit.h"
+
